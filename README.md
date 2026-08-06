@@ -31,7 +31,6 @@ Current work focuses on:
 - Refining command-center reporting
 - Improving risk and event classification
 - Strengthening identity and permission workflows
-- Completing the 3D organizational environment
 - Preparing controlled demonstrations and validation scenarios
 
 ## Security and Source Availability
