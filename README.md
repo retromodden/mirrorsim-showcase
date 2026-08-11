@@ -47,3 +47,18 @@ This public repository is a sanitized portfolio showcase and does not contain op
 Founder, Envarious
 
 Email: justin@envarious.com
+
+
+![MirrorSim public healthcare demonstration site](screenshots/01-public-site.png.png)
+
+![MirrorSim staff authentication portal](screenshots/02-staff-login.png.png)
+
+![MirrorSim MFA step-up verification](screenshots/03-mfa-step-up.png.png)
+
+![MirrorSim simulated staff portal](screenshots/04-staff-portal.png.png)
+
+![MirrorSim defensive command center alerts](screenshots/05-command-center-alerts.png.png)
+
+![MirrorSim contained session monitoring](screenshots/06-contained-session.png.png)
+
+![MirrorSim entry activity telemetry](screenshots/07-entry-activity.png.png)
