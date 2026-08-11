@@ -2,6 +2,8 @@
 
 MirrorSim is a cybersecurity deception, attack-simulation, monitoring, and defensive command-center platform developed by Envarious.
 
+*All organizations, identities, credentials, records, telemetry, and operational data shown are synthetic and exist solely within the isolated MirrorSim demonstration environment.
+
 ## Overview
 
 MirrorSim provides a controlled environment for observing suspicious activity, tracking attacker behavior, and evaluating defensive responses without exposing production systems.
